@@ -5,5 +5,5 @@ numpy
 opencv-python
 Pillow
 torch>=1.7
-torchvision
+torchvision<0.17
 tqdm

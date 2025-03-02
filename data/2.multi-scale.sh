@@ -1,0 +1,1 @@
+python ../scripts/generate_multiscale_DF2K.py --input ./pdf-img --output ./pdf-img-multi-scale
